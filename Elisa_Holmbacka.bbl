@@ -1,0 +1,46 @@
+\newcommand{\etalchar}[1]{$^{#1}$}
+\begin{thebibliography}{JHMR15}
+
+\bibitem[Dam13]{Dam:13}
+R.~V.~D. Dam.
+\newblock Big data a sure thing for telecommunications: Telecom's future in big
+  data.
+\newblock In {\em Cyber-Enabled Distributed Computing and Knowledge Discovery
+  (CyberC), 2013 International Conference on}, pages 148--154, Oct 2013.
+
+\bibitem[DLL15]{Deneke15}
+T.~Deneke, S.~Lafond, and J.~Lilius.
+\newblock Analysis and transcoding time prediction of online videos.
+\newblock In {\em 2015 IEEE International Symposium on Multimedia (ISM)}, pages
+  319--322, Dec 2015.
+
+\bibitem[Hol15]{Holmbacka:15}
+Simon Holmbacka.
+\newblock {\em Energy Aware Software for Many-Core Systems}.
+\newblock PhD thesis, \AA{}bo Akademi University, December 2015.
+
+\bibitem[IZAD14]{Imran:14}
+A.~Imran, A.~Zoha, and A.~Abu-Dayya.
+\newblock Challenges in 5g: how to empower son with big data for enabling 5g.
+\newblock {\em IEEE Network}, 28(6):27--33, Nov 2014.
+
+\bibitem[JHMR15]{Jony:15}
+R.~I. Jony, A.~Habib, N.~Mohammed, and R.~I. Rony.
+\newblock Big data use case domains for telecom operators.
+\newblock In {\em 2015 IEEE International Conference on Smart
+  City/SocialCom/SustainCom (SmartCity)}, pages 850--855, Dec 2015.
+
+\bibitem[Sip16]{Sipus:16}
+D.~Sipus.
+\newblock Big data analytics for communication service providers.
+\newblock In {\em 2016 39th International Convention on Information and
+  Communication Technology, Electronics and Microelectronics (MIPRO)}, pages
+  513--517, May 2016.
+
+\bibitem[ZTD{\etalchar{+}}08]{Zhu:08}
+M.~Zhu, C.~Tang, S.~Dai, Y.~Xiang, S.~Qiao, and C.~Yu.
+\newblock Predicting the total workload in telecommunications by svms.
+\newblock In {\em Innovative Computing Information and Control, 2008. ICICIC
+  '08. 3rd International Conference on}, pages 105--105, June 2008.
+
+\end{thebibliography}

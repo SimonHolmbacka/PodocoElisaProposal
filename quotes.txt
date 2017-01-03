@@ -1,0 +1,37 @@
+The future big data analytics for communication
+service providers will most certainly shift towards realtime
+analytics and process automation. It will be crucial to
+react as soon as possible and the reaction time will
+differentiate CSPs how they understand their customers
+and how they react on their customer needs and problems
+
+
+
+[1] CITO Research, "Big Data Insights in a Rush," Research
+Paper 2012.
+
+
+is not just a
+property of big web companies like Google or Facebook
+
+###############5G2################
+
+The more
+logical approach is to design 5G to be fully self-organizing with
+end-to-end network behavior intelligence, from the perspective
+of a self-organizing network (SON) engine, so that it can
+exploit the cognition of the context of application as well as
+that of the state of the network to divert and focus the right
+amount of network resources when and where needed such
+that users will perceive seamless and limitless connectivity.
+
+40-50x gain but with big complexity increase
+5G node has about 5000 parameters to optimize
+
+SON must increase to enable 5G
+-Self optimization and self healing properties
+-must be more self aware
+-from reactive to proactive in 5G
+
+
+#######################5G1##################
